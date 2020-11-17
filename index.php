@@ -7,7 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    
+   <?php
+    echo "hola que hace "
+    ?>
 </body>
 </html>
 
